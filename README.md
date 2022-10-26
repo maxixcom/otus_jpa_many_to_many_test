@@ -1,0 +1,2 @@
+# Тесты с JPA ManyToMany
+
